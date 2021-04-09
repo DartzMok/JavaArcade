@@ -1,0 +1,135 @@
+cs1302-arcade:
+total 96
+-rw-r--r-- 1 ugrad  1296 May  6 16:01 ATTRIBUTION.md
+-rw-r--r-- 1 ugrad 19121 Apr  9 14:03 LICENSE
+-rw-r--r-- 1 ugrad   216 Apr  9 14:03 Makefile
+-rw-r--r-- 1 ugrad  1942 Apr  9 14:03 pom.xml
+-rw-r--r-- 1 ugrad 52434 Apr  9 14:03 README.md
+-rw-r--r-- 1 ugrad     0 May  6 17:16 rec59773
+-rw-r--r-- 1 ugrad  2625 May  6 17:13 REFLECTION.md
+drwxr-xr-x 3 ugrad  4096 Apr  9 14:03 src
+drwxr-xr-x 5 ugrad  4096 Apr 16 17:23 target
+
+cs1302-arcade/src:
+total 4
+drwxr-xr-x 4 ugrad 4096 Apr 16 17:25 main
+
+cs1302-arcade/src/main:
+total 8
+drwxr-xr-x 3 ugrad 4096 Apr  9 14:03 java
+drwxr-xr-x 2 ugrad 4096 May  6 17:08 resources
+
+cs1302-arcade/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Apr  9 14:03 cs1302
+
+cs1302-arcade/src/main/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 May  6 17:08 arcade
+
+cs1302-arcade/src/main/java/cs1302/arcade:
+total 52
+-rw-r--r-- 1 ugrad  4448 May  6 16:01 ArcadeApp.java
+-rw-r--r-- 1 ugrad   784 Apr  9 14:03 ArcadeDriver.java
+-rw-r--r-- 1 ugrad 16873 May  6 17:08 GameBoard.java
+-rw-r--r-- 1 ugrad 13590 May  6 16:01 SpaceInvaders.java
+-rw-r--r-- 1 ugrad  2931 May  6 17:08 Twenty48.java
+
+cs1302-arcade/src/main/resources:
+total 208
+-rw-r--r-- 1 ugrad  1663 May  6 16:01 1024.png
+-rw-r--r-- 1 ugrad  1744 May  6 16:01 128.png
+-rw-r--r-- 1 ugrad  1514 May  6 16:01 16.png
+-rw-r--r-- 1 ugrad  3589 May  6 16:01 2048BG.png
+-rw-r--r-- 1 ugrad  6918 Apr 16 17:25 2048Logo.png
+-rw-r--r-- 1 ugrad  1997 May  6 16:01 2048.png
+-rw-r--r-- 1 ugrad  1948 May  6 16:01 256.png
+-rw-r--r-- 1 ugrad  1179 May  6 16:01 2.png
+-rw-r--r-- 1 ugrad  1786 May  6 16:01 32.png
+-rw-r--r-- 1 ugrad  2028 May  6 16:01 4096.png
+-rw-r--r-- 1 ugrad   949 May  6 16:01 4.png
+-rw-r--r-- 1 ugrad  1662 May  6 16:01 512.png
+-rw-r--r-- 1 ugrad  1696 May  6 16:01 64.png
+-rw-r--r-- 1 ugrad  1954 May  6 16:01 8192.png
+-rw-r--r-- 1 ugrad  1466 May  6 16:01 8.png
+-rw-r--r-- 1 ugrad   654 May  1 17:34 Alien.png
+-rw-r--r-- 1 ugrad   407 May  1 17:34 Bullet.png
+-rw-r--r-- 1 ugrad   728 May  1 17:34 Crash.png
+-rw-r--r-- 1 ugrad 67959 May  6 16:01 retroBG.png
+-rw-r--r-- 1 ugrad   269 May  1 17:34 Ship.png
+-rw-r--r-- 1 ugrad 53783 Apr 16 17:25 SpaceInvadersLogo.jpg
+-rw-r--r-- 1 ugrad   792 May  6 17:08 WinTile.png
+
+cs1302-arcade/target:
+total 12
+drwxr-xr-x 3 ugrad 4096 May  6 17:08 classes
+drwxr-xr-x 3 ugrad 4096 Apr 16 17:23 generated-sources
+drwxr-xr-x 3 ugrad 4096 Apr 16 17:23 maven-status
+
+cs1302-arcade/target/classes:
+total 360
+-rw-r--r-- 1 ugrad   1663 May  6 16:01 1024.png
+-rw-r--r-- 1 ugrad   1744 May  6 16:01 128.png
+-rw-r--r-- 1 ugrad   1514 May  6 16:01 16.png
+-rw-r--r-- 1 ugrad   3589 May  6 16:01 2048BG.png
+-rw-r--r-- 1 ugrad   6918 Apr 16 17:25 2048Logo.png
+-rw-r--r-- 1 ugrad   1997 May  6 16:01 2048.png
+-rw-r--r-- 1 ugrad   1948 May  6 16:01 256.png
+-rw-r--r-- 1 ugrad   1179 May  6 16:01 2.png
+-rw-r--r-- 1 ugrad   1786 May  6 16:01 32.png
+-rw-r--r-- 1 ugrad   2028 May  6 16:01 4096.png
+-rw-r--r-- 1 ugrad    949 May  6 16:01 4.png
+-rw-r--r-- 1 ugrad   1662 May  6 16:01 512.png
+-rw-r--r-- 1 ugrad   1696 May  6 16:01 64.png
+-rw-r--r-- 1 ugrad   1954 May  6 16:01 8192.png
+-rw-r--r-- 1 ugrad   1466 May  6 16:01 8.png
+-rw-r--r-- 1 ugrad   3826 Apr 18 10:31 Alien1.png
+-rw-r--r-- 1 ugrad   3832 Apr 18 10:31 Alien2.png
+-rw-r--r-- 1 ugrad   2865 Apr 18 10:31 Alien3.png
+-rw-r--r-- 1 ugrad   3739 Apr 18 10:31 Alien4.png
+-rw-r--r-- 1 ugrad    654 May  1 17:34 Alien.png
+-rw-r--r-- 1 ugrad    407 May  1 17:34 Bullet.png
+-rw-r--r-- 1 ugrad    728 May  1 17:34 Crash.png
+drwxr-xr-x 3 ugrad   4096 Apr 16 17:23 cs1302
+-rw-r--r-- 1 ugrad 132803 Apr 16 17:25 retroBG.jpg
+-rw-r--r-- 1 ugrad  67959 May  6 16:01 retroBG.png
+-rw-r--r-- 1 ugrad    269 May  1 17:34 Ship.png
+-rw-r--r-- 1 ugrad  53783 Apr 16 17:25 SpaceInvadersLogo.jpg
+-rw-r--r-- 1 ugrad    792 May  6 17:08 WinTile.png
+
+cs1302-arcade/target/classes/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 May  6 17:08 arcade
+
+cs1302-arcade/target/classes/cs1302/arcade:
+total 36
+-rw-r--r-- 1 ugrad  5654 May  6 17:08 ArcadeApp.class
+-rw-r--r-- 1 ugrad  1119 May  6 17:08 ArcadeDriver.class
+-rw-r--r-- 1 ugrad  7966 May  6 17:08 GameBoard.class
+-rw-r--r-- 1 ugrad 11350 May  6 17:08 SpaceInvaders.class
+-rw-r--r-- 1 ugrad  2703 May  6 17:08 Twenty48.class
+
+cs1302-arcade/target/generated-sources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr 16 17:23 annotations
+
+cs1302-arcade/target/generated-sources/annotations:
+total 0
+
+cs1302-arcade/target/maven-status:
+total 4
+drwxr-xr-x 3 ugrad 4096 Apr 16 17:23 maven-compiler-plugin
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Apr 16 17:23 compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr 16 17:23 default-compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r-- 1 ugrad 156 May  6 17:08 createdFiles.lst
+-rw-r--r-- 1 ugrad 376 May  6 17:14 inputFiles.lst
+/home/ugrads/mok/cs1302-arcade:/home/work/cs1302a
